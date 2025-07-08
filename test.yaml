@@ -1,0 +1,52 @@
+# Instruções:
+# 1. Crie um arquivo YAML chamado "test.yaml".
+# 2. Adicione as seguintes informações:
+
+nome: "Jesse Batista"
+idade: 35
+
+habilidades:
+  - Programacao em Python
+  - Desenvolvimento Web
+  - Machine Learning
+
+experiencia:
+  - Empresa: "Tech Solutions"
+    Cargo: "Desenvolvedor de Software"
+    Anos: 3
+
+  # Este objeto descreve o nosso projeto
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
+
+versao: 1.0
+versao_completa: 3.14
+
+string_sem_aspas: Digite algo aqui
+texto: "Este tambem e um texto valido para o YAML"
+
+nulo: ~
+nulo_dois: null
+
+verdadeiro: True
+verdadeiro_dois: On
+
+falso: false
+falso_dois: Off
+
+lista: [1, 2, 3, 4, 5]
+
+lista_com_espacos:
+  - "Item 1"
+  - "Item 2"
+  - "Item 3"
+  - 10
+  - outro item
+  - True
+
+obj: { a: 1, b: 2, c: 3 }
+
+objeto:
+  a: 1
+  b: 2 
